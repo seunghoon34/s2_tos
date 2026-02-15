@@ -14,7 +14,7 @@ export default function Home() {
       />
 
       <p className="mt-4 max-w-md text-lg text-gray-600">
-        A content-basedd social app for meeting new people.
+        A content-based social app for meeting new people.
       </p>
 
       <div className="mt-10 flex gap-6 text-sm">

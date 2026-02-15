@@ -10,9 +10,9 @@ const geistSans = Geist({
 });
 
 export const metadata: Metadata = {
-  title: "S2 — A content-basedd social app",
+  title: "S2 — A content-based social app",
   description:
-    "A content-basedd social app for meeting new people. Privacy policy, terms of service, and support.",
+    "A content-based social app for meeting new people. Privacy policy, terms of service, and support.",
 };
 
 export default function RootLayout({

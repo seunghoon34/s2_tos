@@ -12,7 +12,7 @@ export default function PrivacyPolicy() {
 
       <p>
         S2 (&quot;we,&quot; &quot;us,&quot; or &quot;our&quot;) operates a
-        content-basedd social application (the &quot;App&quot;). This Privacy Policy
+        content-based social application (the &quot;App&quot;). This Privacy Policy
         explains how we collect, use, disclose, and safeguard your information
         when you use our App. Please read this policy carefully. By using S2, you
         agree to the collection and use of information in accordance with this
