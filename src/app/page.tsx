@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div className="flex flex-col items-center py-20 text-center">
       <Image
-        src="/s2icon.png"
+        src="/logo-transparent.png"
         alt="S2 logo"
         width={96}
         height={96}

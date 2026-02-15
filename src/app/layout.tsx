@@ -27,7 +27,7 @@ export default function RootLayout({
           <div className="mx-auto flex max-w-3xl items-center justify-between px-6 py-4">
             <Link href="/">
               <Image
-                src="/s2icon.png"
+                src="/logo-transparent.png"
                 alt="S2"
                 width={32}
                 height={32}
